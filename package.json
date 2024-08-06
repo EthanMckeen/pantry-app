@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@langtrase/typescript-sdk": "^4.1.0",
+    "deep-chat": "^2.0.1",
+    "eslint": "^9.8.0",
+    "glob": "^11.0.0",
+    "rimraf": "^6.0.1"
+  }
+}
